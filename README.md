@@ -30,4 +30,4 @@ expo install react-native-modal react-native-safe-area-context
 
 ```
 
-![Screenshot_2](./assets/images/demo.jpeg)
+<img src="./assets/images/demo.jpeg" alt="Screenshot_2" style="display: block; margin: auto; width: 260px;">
